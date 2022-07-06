@@ -1,0 +1,31 @@
+Selected Commons Objects
+
+    1 - Chinelo
+    2 - Vasoura
+    3 - Ferro de Passar Roupa
+    4 - Carro
+    5 - Caneta
+    6 - Livro
+    7 - Prato
+    8 - Copo
+    9 - Xícara
+    10 - Prendedor de Roupas
+    11 - Faca
+    12 - Colher
+    13 - Garfo
+    14 - Chave
+    15 - Rodo
+
+Selected Model Arquitetures
+
+    ResNet
+    EfficientNet
+    Inception V3
+
+Model Build Steps
+    
+    1 - Mount a Dataset containing images of each class
+    2 - Create a blob with labels of each class in images
+    3 - Trainer models
+    4 - Tester models
+    5 - Select best model
